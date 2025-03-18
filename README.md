@@ -72,7 +72,7 @@ python Agentic_RAG.py
 ![截图 2025-03-18 16-36-33.png](https://github.com/Paul33333/tinymind-blog/blob/main/assets/images/2025-03-18/1742288296422.png?raw=true)
 ![截图 2025-03-18 16-37-28.png](https://github.com/Paul33333/tinymind-blog/blob/main/assets/images/2025-03-18/1742288081577.png?raw=true)
 
-一、**多轮问答**
+二、**多轮问答**
 
 在完成上面的第一个对话后，我们续着进行第二轮问答。
 
