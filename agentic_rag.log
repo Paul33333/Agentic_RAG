@@ -1,0 +1,21 @@
+2025-03-18 16:24:31,768 - __main__ - INFO - Processing question: 请给我详细介绍下前段时间小米发布的Su7 Ultra这款跑车的相关信息，要求信息尽可能全面
+2025-03-18 16:24:33,626 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 16:25:06,702 - __main__ - INFO - Search #1: '小米SU7 Ultra 正式发布 详细参数'
+2025-03-18 16:25:10,842 - __main__ - INFO - Search for '小米SU7 Ultra 正式发布 详细参数' completed in 4.14s, found 5 results
+2025-03-18 16:25:11,352 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 16:25:32,820 - __main__ - INFO - Search #2: '小米SU7 Ultra 技术亮点'
+2025-03-18 16:25:36,414 - __main__ - INFO - Search for '小米SU7 Ultra 技术亮点' completed in 3.59s, found 5 results
+2025-03-18 16:25:36,714 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 16:25:45,449 - __main__ - INFO - Search #3: '小米SU7 Ultra 市场反响'
+2025-03-18 16:25:49,293 - __main__ - INFO - Search for '小米SU7 Ultra 市场反响' completed in 3.84s, found 5 results
+2025-03-18 16:25:49,597 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 16:34:33,230 - __main__ - INFO - Completed in 601.46s with 3 searches
+2025-03-18 17:03:49,893 - __main__ - INFO - Processing question: 请你再继续对比下tesla生成一份小米Su7 Ultra和 tesla modelS的产品对比手册
+2025-03-18 17:03:50,210 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 17:04:21,102 - __main__ - INFO - Search #1: '2025 Tesla Model S Plaid 最新参数 评测'
+2025-03-18 17:04:24,114 - __main__ - INFO - Search for '2025 Tesla Model S Plaid 最新参数 评测' completed in 3.01s, found 5 results
+2025-03-18 17:04:24,309 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 17:04:45,341 - __main__ - INFO - Search #2: '小米SU7 Ultra vs 特斯拉Model S Plaid 赛道测试 充电对比'
+2025-03-18 17:04:48,128 - __main__ - INFO - Search for '小米SU7 Ultra vs 特斯拉Model S Plaid 赛道测试 充电对比' completed in 2.79s, found 5 results
+2025-03-18 17:04:48,318 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/beta/chat/completions "HTTP/1.1 200 OK"
+2025-03-18 17:05:53,854 - __main__ - INFO - Completed in 123.96s with 2 searches
