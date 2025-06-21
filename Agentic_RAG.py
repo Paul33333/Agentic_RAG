@@ -32,7 +32,8 @@ class AgentConfig:
     model_name: str = 'deepseek-reasoner'
     temperature: float = 0.6
     top_p: float = 0.9
-    frequency_penalty: float = 1.05 
+    # 不再建议使用frequency_penalty参数
+    # frequency_penalty: float = 1.05 
     max_tokens: int = 4096
     
     # 工具使用相关参数
@@ -198,7 +199,7 @@ def call_model(messages: List[Message], model_name: str = config.model_name) -> 
             messages=messages,
             temperature=config.temperature,
             top_p=config.top_p,
-            frequency_penalty=config.frequency_penalty,
+            # frequency_penalty=config.frequency_penalty,
             # max_tokens = config.max_tokens
             stop=["<|im_end|>", "</tool_call>"]
         )
